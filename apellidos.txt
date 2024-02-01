@@ -1,1 +1,6 @@
 apellidos:
+Ochoa Gispert
+Calderon Mercado
+Martinez Rojas
+OG
+CM
